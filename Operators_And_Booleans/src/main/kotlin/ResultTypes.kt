@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     println(result2::class.java)
 
     val a3: Float = 234.45F
-    val b3: 34586.453
+    val b3 = 34586.453
     val result3 = a3 * b3
     println(result3::class.java)
 }
