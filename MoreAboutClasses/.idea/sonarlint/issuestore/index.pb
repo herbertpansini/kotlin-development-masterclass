@@ -1,0 +1,33 @@
+
+W
+'src/main/kotlin/PracticeConstructors.kt,9/2/92c802ad9d785404cfda83fd2419406c20aeef76
+O
+src/main/kotlin/Constructors.kt,c/c/ccba336972571088465759c81fe2b1ed5b3ff573
+W
+'src/main/kotlin/ExerciseConstructors.kt,e/c/ec9ac0f8235b97cc810a011a65f235bd9e60056c
+T
+$src/main/kotlin/GettersAndSetters.kt,7/f/7f4a4958d262c1ef1e884284a9005a422bf2cf5d
+\
+,src/main/kotlin/PracticeGettersAndSetters.kt,d/3/d3ac3e06d3f91da23052805ff0bda7dd0a6fced7
+\
+,src/main/kotlin/ExerciseGettersAndSetters.kt,4/2/420b96bb0fc3b3dce29966c326fa0e6d66478fe7
+Q
+!src/main/kotlin/TheThisKeyword.kt,0/b/0bf00ef437e4cadb38e318df4a471fa7250834ed
+V
+&src/main/kotlin/PracticeThisKeyword.kt,b/7/b7678560c2a8efa81484ba936c51f74da8c1817b
+V
+&src/main/kotlin/ExerciseThisKeyword.kt,1/3/135bac312a850d01830799e25a06b565daccef60
+O
+src/main/kotlin/TheInitBlock.kt,8/1/813aea178591cacaa6f25935758db4a555a368e9
+T
+$src/main/kotlin/PracticeInitBlock.kt,3/a/3a09bfce6895df20f6826f5ca6292cfdf1a890c0
+T
+$src/main/kotlin/ExerciseInitBlock.kt,5/f/5f95b3d6d42382e935c759ccc423ce149027015b
+R
+"src/main/kotlin/CompanionObject.kt,a/3/a3b6195e68e5660b55a9e74c73823666788ab3db
+[
++src/main/kotlin/PracticeCompanionObject1.kt,c/5/c5117d6ab2b083a956ba673afb8d815279902135
+[
++src/main/kotlin/PracticeCompanionObject2.kt,e/c/ec4e701b4202d115271f23ccc646fa9f497d6908
+Z
+*src/main/kotlin/ExerciseCompanionObject.kt,d/8/d8441e5ab657d6d62ea72bec965114c03fb5d339
